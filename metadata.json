@@ -1,0 +1,5 @@
+{
+  "name": "AI Notepad",
+  "description": "A modern notepad application supercharged with AI. Write, edit, and manage your notes with ease, and use the power of Gemini to summarize your content instantly. Features a sleek dark/light mode interface and local storage persistence.",
+  "requestFramePermissions": []
+}
